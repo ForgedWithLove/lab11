@@ -1,0 +1,2 @@
+class Friendly < ApplicationRecord
+end
